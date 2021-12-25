@@ -1,0 +1,36 @@
+.container {
+  width: 100%;
+  height: auto;
+  /* border: 1px solid red; */
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.header {
+  width: 300px;
+  height: auto;
+  /* border: 1px solid red; */
+}
+
+.title {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 151.5%;
+  letter-spacing: -0.01em;
+  color: #333333;
+  margin-left: 70px;
+}
+
+.subTitle {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 151.5%;
+  letter-spacing: -0.01em;
+  color: #333333;
+  margin-left: 40px;
+}
