@@ -19,6 +19,7 @@ const FeaturedContent = () => {
           </div>
       </div>
     </div>
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   );
 };
 
