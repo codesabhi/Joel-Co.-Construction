@@ -6,6 +6,7 @@ const Questionaire = () => {
         <div className={styles.container}>
             <Question/>
             <Question/>
+            <Question/>
         </div>
     )
 }

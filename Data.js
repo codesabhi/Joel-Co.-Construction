@@ -1,3 +1,5 @@
+// created data file to map the items in our reusable components
+
 export const data = [
     {
         id: 1,

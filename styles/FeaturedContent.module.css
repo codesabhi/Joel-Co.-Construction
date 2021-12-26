@@ -1,19 +1,15 @@
 .container {
   width: 100%;
   height: auto;
-  /* border: 1px solid red; */
   display: flex;
-  /* margin-top: -3%; */
 }
 
 .left {
   flex: 1;
   height: 100%;
-  /* border: 1px solid red; */
 }
 
 .title {
-  /* border: 1px solid green; */
   width: 550px;
   height: 90px;
   font-family: Inter;
@@ -28,7 +24,6 @@
 }
 
 .para {
-  /* border: 1px solid green; */
   width: 422px;
   margin-left: 98px;
   margin-top: 16px;
@@ -45,13 +40,11 @@
 .right {
   flex: 1;
   height: 100%;
-  /* border: 1px solid red; */
 }
 
 .image{
     width: 650px;
     height: 562px;
-    /* border: 1px solid red; */
     margin-top: -12%;
     margin-left: 10px;
 }

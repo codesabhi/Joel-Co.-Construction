@@ -4,6 +4,8 @@ import styles from '../styles/Featured.module.css';
 const Featured = () => {
     return (
         <div className={styles.container}>
+        <div className={styles.square}></div>
+        <div className={styles.squares}></div>
         <div className={styles.text}>
             <h1 className={styles.title}>Create. Engage. Grow</h1>
             <p className={styles.para}>
