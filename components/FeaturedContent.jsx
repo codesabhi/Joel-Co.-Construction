@@ -15,7 +15,7 @@ const FeaturedContent = () => {
       </div>
       <div className={styles.right}>
           <div className={styles.image}>
-              <Image src="/images/Group5.png" objectFit="cover" alt="" width='650' height='562'/>
+              <Image src="/images/Group5.png" alt="" width='650' height='562'/>
           </div>
       </div>
     </div>
