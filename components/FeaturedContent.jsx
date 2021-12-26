@@ -9,7 +9,7 @@ const FeaturedContent = () => {
         </h1>
         <p className={styles.para}>
           Download your audio as beautiful Audioclips and share it with tons of
-          channels with millions of listeners in one-click so you are always on
+          channels with millions of listeners in one click so you are always on
           top of the (audio) world.
         </p>
       </div>
